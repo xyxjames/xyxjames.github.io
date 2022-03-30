@@ -4,11 +4,11 @@ I am a student majoring in **computer science** at Peking University, China. I a
 
 My main interests are:
 
-+ Computer architecture & compilers
-+ Software-hardware codesign & domain specific hardware
-+ Distributed systems & cloud computing
-+ Algebra & number theory & cryptography
++ Software-hardware codesign
++ Large-scale computer systems
++ Computer architecture & domain-specific hardware
 + Theoretical computer science
++ Cryptography & cybersecurity
 
 I haven't yet had much experience with these areas. I am currently learning about operating systems and computer architecture, and I am trying to get involved in some basic research in computer systems.
 
